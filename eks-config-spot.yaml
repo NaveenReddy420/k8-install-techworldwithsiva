@@ -6,9 +6,10 @@ metadata:
   region: ap-south-1
 
 managedNodeGroups:
-
 # `instanceTypes` defaults to [`m5.large`]
-- name: spot-1
-  spot: true
-  ssh:
-    publicKeyName: kubernetes #place your key
+  - name: spot-1
+    spot: true
+    ssh:
+      publicKeyName: kubernetes # place your key
+    instanceTypes:
+      - t2.micro
