@@ -11,5 +11,3 @@ managedNodeGroups:
     spot: true
     ssh:
       publicKeyName: kubernetes # place your key
-    instanceTypes:
-      - t2.micro
