@@ -8,11 +8,11 @@ curl https://raw.githubusercontent.com/NaveenReddy420/docker-install-commands/ma
 ```
 * Clone this repo.
 ```
-git clone https://github.com/techworldwithsiva/k8-install.git
+git clone https://github.com/NaveenReddy420/k8-install-techworldwithsiva.git
 ```
-* go to k8-install folder
+* go to k8-install-techworldwithsiva folder
 ```
-cd k8-install
+cd k8-install-techworldwithsiva
 ```
 * Run eks-client.sh script to install AWS CLI V2, eksctl, kubectl
 ```
