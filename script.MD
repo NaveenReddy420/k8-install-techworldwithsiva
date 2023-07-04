@@ -4,7 +4,7 @@
 * Create IAM user with administrator access. Create access_key and security_key. **Don't keep these in GIT**
 * Create a work station of AWS Linux 2 OS. Install docker in it.
 ```
-curl https://raw.githubusercontent.com/techworldwithsiva/docker-install-commands/master/docker-install.sh | sudo bash
+curl https://raw.githubusercontent.com/NaveenReddy420/docker-install-commands/main/docker-install.sh | sudo bash
 ```
 * Clone this repo.
 ```
